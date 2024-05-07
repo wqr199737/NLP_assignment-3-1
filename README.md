@@ -1,5 +1,11 @@
 # NLP_assignment-3-1
 
+**summary**
+
+The assignment focuses on enhancing a pre-trained model's ability to perform specific tasks by fine-tuning it on a customized instruction-based dataset. The initial phase involves adapting the model with a new set of data, which aims to improve its accuracy and response to task-specific queries. After fine-tuning, the model's performance is evaluated using metrics like BLEU, Rouge-L, BERTScore, and CodeBLEU to assess improvements across various dimensions. Results indicate significant gains in all metrics, confirming the efficacy of targeted training. This method uses a robust approach to refining a model's capabilities, ensuring it performs better in specialized applications.
+
+
+
 **Instruction-Based Dataset Generation and Model Fine-Tuning in LLMs**
 
 Objective: The objective of this assignment is to explore the process of generating an instructionbased dataset for model training in Natural Language Processing (NLP). Additionally, students will
